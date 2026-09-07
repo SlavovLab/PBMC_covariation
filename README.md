@@ -20,7 +20,7 @@ To reproduce the exact analysis, run:
 9. SS3xpress_preprocessing_and_QC.R
 10. PBMC_Covariation.Rmd
 
-Meta data, processed abundance matrices, and .rds files are loaded in each script where needed (within PBMC_Covariation.Rmd).
+Meta data, raw data, processed abundance matrices, and .rds files are loaded in each script where needed.
 
 Script 4 in PBMC_Covariation.Rmd is the only script within the markdown file that needs each protein preprocessing script run first.
 
