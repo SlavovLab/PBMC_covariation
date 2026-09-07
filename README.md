@@ -5,7 +5,7 @@ This codebase covers all raw data processing, outputs, analysis, and figure gene
 
 Raw data accessible via: 
 
-Meta data, processed abundance matrices, and .rds files accessible via: 
+Meta data, processed abundance matrices, and .rds files accessible via Zenodo DOI: 10.5281/zenodo.22649483
 
 When executing any script or markdown file, always run Install_and_load_packages.R and Functions_for_mapping_and_analysis.R first.
 To reproduce the exact analysis, run:
