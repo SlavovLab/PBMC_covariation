@@ -5,7 +5,7 @@ This codebase covers all raw data processing, outputs, analysis, and figure gene
 
 Raw sequencing and LC-MS/MS data will be made available.
 
-All meta data, processed data, and files required for reproducing all analyses in this repository are accessible via Zenodo DOI: 10.5281/zenodo.22649483
+All meta data, processed data, and files required for reproducing all analyses in this repository are accessible via Zenodo DOI: [10.5281/zenodo.22649483](https://zenodo.org/records/22649483)
 
 When executing any script or markdown file, always run Install_and_load_packages.R and Functions_for_mapping_and_analysis.R first.
 To reproduce the exact analysis, run:
