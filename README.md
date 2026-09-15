@@ -1,5 +1,5 @@
 # PBMC_covariation
-Code repository for reproducing analyses in 2026_Khoury_et _al.
+Code repository for reproducing analyses in [Khoury et al., 2026](https://doi.org/10.64898/2026.09.11.751068), [PDF](https://slavovlab.net/Slavov-Lab-Publications/2026_cell-type-specific-functional-coordination-in-PBMCs.pdf), [Website](https://scp.slavovlab.net/Khoury_et_al_2026)
 
 This codebase covers all raw data processing, outputs, analysis, and figure generation.
 
